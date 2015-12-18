@@ -1,5 +1,6 @@
 #include <math.h>
 #include <stdio.h>
+#include <conio.h>
 const int n=3;
 const int c[n]={5,2,1};
 int main()
