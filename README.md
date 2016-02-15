@@ -7,4 +7,4 @@
 Бла бла бла
 
 ## Модель прецедентов использования
-![alt tag](https://github.com/vilegzhanina/ProgrammingCourse/blob/master/report/2000px-Use_case_restaurant_model.svg.png)
+![alt tag](report/2000px-Use_case_restaurant_model.svg.png)
