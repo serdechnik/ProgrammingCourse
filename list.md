@@ -4,3 +4,4 @@
 * Дьячков Вадим [Football Editor 16](https://github.com/VadikDyachkov/FootballEditor16)
 * Мальцев Михаил [The_timetable_for_transport](https://github.com/mikle9997/The_timetable_for_transport.git)
 * Леженин Юрий [Shogi](https://github.com/lezhenin/Shogi)
+* Лиза Кузовкина [ContactBook](https://github.com/kuzo-liza/ContactBook)
