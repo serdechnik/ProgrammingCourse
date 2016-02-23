@@ -5,3 +5,4 @@
 * Мальцев Михаил [The_timetable_for_transport](https://github.com/mikle9997/The_timetable_for_transport.git)
 * Леженин Юрий [Shogi](https://github.com/lezhenin/Shogi)
 * Лиза Кузовкина [ContactBook](https://github.com/kuzo-liza/ContactBook)
+* Жуйков Артем [Predator-Prey](https://github.com/Zhuikov/predator-prey)
