@@ -6,3 +6,4 @@
 * Леженин Юрий [Shogi](https://github.com/lezhenin/Shogi)
 * Лиза Кузовкина [ContactBook](https://github.com/kuzo-liza/ContactBook)
 * Жуйков Артем [Predator-Prey](https://github.com/Zhuikov/predator-prey)
+* Крылов Иван [Chess] (https://github.com/VanyaKrylov/chess.git)
