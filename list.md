@@ -7,3 +7,4 @@
 * Лиза Кузовкина [ContactBook](https://github.com/kuzo-liza/ContactBook)
 * Жуйков Артем [Predator-Prey](https://github.com/Zhuikov/predator-prey)
 * Крылов Иван [Chess] (https://github.com/VanyaKrylov/chess.git)
+* Орова Александра [SolarSystem] (https://github.com/AleksandraOrova/SolarSystem)
