@@ -9,3 +9,4 @@
 * Крылов Иван [Chess] (https://github.com/VanyaKrylov/chess.git)
 * Орова Александра [SolarSystem] (https://github.com/AleksandraOrova/SolarSystem)
 * Алина Власова [Sea_Battle] (https://github.com/Vlasova/Sea_Battle.git)
+* Ильин Андрей [Labyrinth_Navigation](https://github.com/WalrusQ/labyrinth)
