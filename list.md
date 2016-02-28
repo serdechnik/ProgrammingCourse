@@ -8,3 +8,4 @@
 * Жуйков Артем [Predator-Prey](https://github.com/Zhuikov/predator-prey)
 * Крылов Иван [Chess] (https://github.com/VanyaKrylov/chess.git)
 * Орова Александра [SolarSystem] (https://github.com/AleksandraOrova/SolarSystem)
+* Алина Власова [Sea_Battle] (https://github.com/Vlasova/Sea_Battle.git)
