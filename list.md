@@ -11,3 +11,4 @@
 * Алина Власова [Sea_Battle] (https://github.com/Vlasova/Sea_Battle.git)
 * Ильин Андрей [Labyrinth_Navigation](https://github.com/WalrusQ/labyrinth)
 * Бойцов Константин [TheReversyGame](https://github.com/ConstantineBoitsov/TheReversyGame)
+* Корсков Алексей [LivingCells](https://github.com/Korskov98/LivingCells.git)
